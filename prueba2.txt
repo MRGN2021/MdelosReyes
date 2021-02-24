@@ -1,0 +1,2 @@
+Fichero prueba2
+Añado esta línea de texto al fichero prueba2
