@@ -1,0 +1,3 @@
+archiv31.txt
+Primera línea de texto en archiv31
+Segunda línea de texto en archiv31.txt

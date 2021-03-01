@@ -1,1 +1,3 @@
 Añado este texto al fichero prueba1
+Añado esta nueva información al archivo prueba.
+ Creo contenido en el archivo prueba como lo hice en el ejercicio2

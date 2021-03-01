@@ -1,2 +1,5 @@
 Fichero prueba2
 Añado esta línea de texto al fichero prueba2
+Añado esta nueva modificación al archivo llamado prueba2.
+Realizo nuevos cambios otra vez en el fichero prueba2.
+creo contenido en el archivo prueba2 como lo hice en el ejercicio2

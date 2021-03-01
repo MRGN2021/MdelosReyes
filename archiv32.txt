@@ -1,0 +1,3 @@
+archiv32.txt
+Primera línea de texto en archiv32.txt
+Segunda línea de texto en archiv32.txt
